@@ -1,0 +1,43 @@
+/** start media query **/
+
+/** from 0 to mobile(smart phone and tablets)**/
+
+@media (max-width: 767px){
+	.subscribe .form-control{
+	margin:20px auto;
+}
+
+.navbar-fixed-top .navbar-collapse,
+ .navbar-fixed-bottom .navbar-collapse{
+  	max-height: none;
+  }
+  .nono{
+  	text-align: center;
+  }
+	
+}
+
+
+
+/**from mobile to small screen**/
+
+@media (min-width: 768px) and (max-width: 991px){
+
+	
+}
+
+
+
+/** from small screen to meduim screen**/
+@media (min-width: 168px) and (max-width: 1199px){
+	
+}
+
+
+
+/** from meduim to ... **/
+@media (min-width: 1200px){
+	
+}
+
+/** end of media query**/

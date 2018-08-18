@@ -1,0 +1,52 @@
+body{
+	height: 1000px;
+	
+
+}
+
+.main{
+	
+	margin-right: 15px;
+	margin-left:15px;
+	margin-bottom: 20px;
+	border-radius: 1% ;
+	background-color: #EEEEEE;
+}
+
+ h1 , h2 , h4 , p{
+	text-align: center;
+
+
+}
+
+
+.main .img{
+	    padding-left: 146px;
+
+}
+.info p{
+	font-size: 20px;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto;
+ }
+ .info h2{
+ 	margin-top: 32px;
+ }
+
+.end p{
+ padding-top:16px;
+}
+
+.text-center {
+	font-weight: bold;
+}
+.text-center a:hover{
+	color: blue;
+}
+.text-center a{
+	color: blue;
+
+}
+
